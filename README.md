@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @bikubara
-- 👀 I’m interested in game logic designing
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on any language you want
-- 📫 How to reach me bikubara@gmail.com
+<h1>about me</h1>
+- 👋 Hi, I’m @bikubara<br>
+- 👀 I’m interested in game logic designing<br>
+- 🌱 I’m currently learning react js<br>
+- 💞️ I’m looking to collaborate on any language you want<br>
+- 📫 How to reach me bikubara@gmail.com<br>
 
 <!---
 bikubara/bikubara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
