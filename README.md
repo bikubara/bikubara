@@ -1,4 +1,5 @@
 <h1>about me</h1>
+hello there
 - 👋 Hi, I’m @bikubara<br>
 - 👀 I’m interested in game logic designing<br>
 - 🌱 I’m currently learning react js<br>
