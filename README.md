@@ -1,10 +1,10 @@
-<h1>about me</h1>
+<h1>ABOUT ME</h1>
 hello there
 - 👋 Hi, I’m @bikubara<br>
-- 👀 I’m interested in game logic designing<br>
-- 🌱 I’m currently learning react js<br>
-- 💞️ I’m looking to collaborate on any language you want<br>
-- 📫 How to reach me bikubara@gmail.com<br>
+- 👀 I’m AM A TECHNOLOGY FREAK<BR>
+- 🌱 I’m currently learning JAVASCRIPT<br>
+- 💞️ I’m looking FOR GOOD CODER for experimental projects can work on<br>
+- 📫 bikubara@gmail.com<br>
 
 <!---
 bikubara/bikubara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
